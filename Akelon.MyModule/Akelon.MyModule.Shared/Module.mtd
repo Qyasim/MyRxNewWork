@@ -1,0 +1,89 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "386813c8-ab0c-45c2-9d47-8592a1d9ddfe",
+  "Name": "MyModule",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "Akelon.MyModule.Client",
+  "ClientBaseAssemblyName": "Akelon.MyModule.ClientBase",
+  "ClientBaseNamespace": "Akelon.MyModule.ClientBase",
+  "ClientNamespace": "Akelon.MyModule.Client",
+  "Code": "MyModul",
+  "CompanyCode": "Akelon",
+  "Cover": {
+    "NameGuid": "ffab86d2-88bf-405d-9615-b0d1eabd8b63",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "c8d9b155-933a-4141-8542-d466410a0631",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "a697cffe-8072-4584-a78b-d74b0a77b1bd",
+      "BackgroundPosition": "Stretch"
+    },
+    "RemoteControls": [],
+    "Tabs": []
+  },
+  "Dependencies": [
+    {
+      "Id": "6009e2b1-a127-4192-99ca-fb84500569a0",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "926c43b0-7c32-4868-a336-ae50127ee37c"
+    },
+    {
+      "ItemId": "81aef090-4934-49f2-b021-93f6373f2ff3",
+      "PreviousItemId": "926c43b0-7c32-4868-a336-ae50127ee37c"
+    },
+    {
+      "ItemId": "0b30c1d6-f146-4715-9901-150d9a08e6ab",
+      "PreviousItemId": "81aef090-4934-49f2-b021-93f6373f2ff3"
+    },
+    {
+      "ItemId": "b7f18888-d5d2-4b44-8d4f-fd4b1eb9fb0f",
+      "PreviousItemId": "0b30c1d6-f146-4715-9901-150d9a08e6ab"
+    },
+    {
+      "ItemId": "2455cb64-755d-45f4-a91a-c828afc2e855",
+      "PreviousItemId": "b7f18888-d5d2-4b44-8d4f-fd4b1eb9fb0f"
+    }
+  ],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "Akelon.MyModule",
+  "IsolatedAreas": [
+    {
+      "NameGuid": "a314a0b3-0717-4f60-9c99-8f3e9f081486",
+      "Name": "AsposeFunctions"
+    }
+  ],
+  "IsolatedAssemblyName": "Akelon.MyModule.Isolated",
+  "IsolatedNamespace": "Akelon.MyModule.Isolated",
+  "IsVisible": false,
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "Akelon.MyModule",
+  "ServerAssemblyName": "Akelon.MyModule.Server",
+  "ServerNamespace": "Akelon.MyModule.Server",
+  "SharedAssemblyName": "Akelon.MyModule.Shared",
+  "SharedNamespace": "Akelon.MyModule.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 12
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}

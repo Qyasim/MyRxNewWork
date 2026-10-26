@@ -1,0 +1,22 @@
+{
+  "$type": "Sungero.Metadata.ReportMetadata, Sungero.Reporting.Shared",
+  "NameGuid": "2455cb64-755d-45f4-a91a-c828afc2e855",
+  "Name": "MyArbitraryReport",
+  "AssociatedGuid": "386813c8-ab0c-45c2-9d47-8592a1d9ddfe",
+  "BaseGuid": "cef9a810-3f30-4eca-9fe3-30992af0b818",
+  "DataSources": [],
+  "DefaultExportFormat": "Pdf",
+  "ExportFormats": [
+    "Pdf"
+  ],
+  "IntegrationServiceName": "MyModuleMyArbitraryReport",
+  "Parameters": [],
+  "PublicStructures": [],
+  "ReportBuilderType": "Code",
+  "Versions": [
+    {
+      "Type": "ReportMetadata",
+      "Number": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$type": "Sungero.Metadata.ReportMetadata, Sungero.Reporting.Shared",
+  "NameGuid": "b7f18888-d5d2-4b44-8d4f-fd4b1eb9fb0f",
+  "Name": "MyFastReport",
+  "AssociatedGuid": "386813c8-ab0c-45c2-9d47-8592a1d9ddfe",
+  "BaseGuid": "cef9a810-3f30-4eca-9fe3-30992af0b818",
+  "DataSources": [],
+  "DefaultExportFormat": "Pdf",
+  "ExportFormats": [
+    "Pdf"
+  ],
+  "IntegrationServiceName": "MyModuleMyFastReport",
+  "Parameters": [],
+  "PublicStructures": [],
+  "Versions": [
+    {
+      "Type": "ReportMetadata",
+      "Number": 1
+    }
+  ]
+}
